@@ -1,5 +1,12 @@
 # Cloud Computing Everything You Need to Know to Get Started
 ## Table of contents
+### [1.  Problems with on-premises infrastructure](https://github.com/ssamag/technical-writing/blob/main/Cloud%20Computing%20Everything%20You%20Need%20to%20Know%20to%20Get%20Started.md#1----problems-with-on-premises-infrastructure)
+### [2.  Cloud computing to the rescue](https://github.com/ssamag/technical-writing/blob/main/Cloud%20Computing%20Everything%20You%20Need%20to%20Know%20to%20Get%20Started.md#2--cloud-computing-to-the-rescue)
+- #### [2.1. Advantages of cloud computingAdvantages of cloud computing](https://github.com/ssamag/technical-writing/blob/main/Cloud%20Computing%20Everything%20You%20Need%20to%20Know%20to%20Get%20Started.md#21--advantages-of-cloud-computingadvantages-of-cloud-computing)
+- #### [2.2. Cloud computing types](https://github.com/ssamag/technical-writing/blob/main/Cloud%20Computing%20Everything%20You%20Need%20to%20Know%20to%20Get%20Started.md#22--cloud-computing-types)
+- #### [2.3. Cloud Service Models](https://github.com/ssamag/technical-writing/blob/main/Cloud%20Computing%20Everything%20You%20Need%20to%20Know%20to%20Get%20Started.md#23--cloud-service-models)
+### [3.  Cloud infrastructure vs. on-premises infrastructure](https://github.com/ssamag/technical-writing/blob/main/Cloud%20Computing%20Everything%20You%20Need%20to%20Know%20to%20Get%20Started.md#3--cloud-infrastructure-vs-on-premises-infrastructure)
+### [4.  Conclusion](https://github.com/ssamag/technical-writing/blob/main/Cloud%20Computing%20Everything%20You%20Need%20to%20Know%20to%20Get%20Started.md#4--conclusion)
 
 # 1.    Problems with on-premises infrastructure
 - **Large capital investment:** IT teams need to spend a large amount of money setting up hardware, servers, storage networking, operating systems, applications, and data in their on-premises infrastructure. Purchasing and installments involve a large up-front capital investment.
