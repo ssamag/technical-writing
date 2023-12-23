@@ -27,6 +27,9 @@ Cloud computing services are offered in the form of three different models: infr
 - **Platform as a Service (Paas):** In this model, the cloud provider will provide a ready-to-use development environment. The cloud provider will take care of the underlying infrastructure and middleware. This makes a developer’s life easy as it helps to create applications quickly without worrying about the underlying infrastructure. This option is more expensive than IaaS but cheaper than SaaS. Examples of PaaS are AWS Elastic Beanstalk, AWS Lambda, and Cloud SQL DB from Google Cloud. **PaaS = IaaS + Middleware**.
 - **Software as a Service (SaaS):** In this model, the service provider will provide a complete product, which will be managed by the service provider. The service provider will take care of the underlying infrastructure, middleware, and application itself. These ready-to-use products can be subscribed to or purchased from a service provider. This option is the most expensive compared to IaaS and PaaS. Examples of SaaS are Gmail, Microsoft 365, Zoom, and AWS Rekognition. **SaaS = PaaS + IaaS**.
 
+![Cloud Service Models](https://github.com/ssamag/technical-writing/assets/80880193/e8426266-a166-4bb7-a084-02bea1cd2d00)
+
+
 # 3.  Cloud infrastructure vs. on-premises infrastructure
 
 ![Cloud vs On-Premise](https://github.com/ssamag/technical-writing/assets/80880193/faef3954-00a5-4366-97f4-1551abf36225)
