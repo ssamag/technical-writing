@@ -1,3 +1,6 @@
+# Cloud Computing Everything You Need to Know to Get Started
+## Table of contents
+
 # 1.    Problems with on-premises infrastructure
 - **Large capital investment:** IT teams need to spend a large amount of money setting up hardware, servers, storage networking, operating systems, applications, and data in their on-premises infrastructure. Purchasing and installments involve a large up-front capital investment.
 - **Capacity planning:** IT teams need to start guessing the capacity of the project. Chances are that the team may end up with overutilization or underutilization of resources due to incorrect up-front capacity planning.
