@@ -1,7 +1,7 @@
 # Cloud Computing Everything You Need to Know to Get Started
 ## Table of contents
 ### [1.  Problems with on-premises infrastructure](https://github.com/ssamag/technical-writing/blob/main/Cloud%20Computing%20Everything%20You%20Need%20to%20Know%20to%20Get%20Started.md#1----problems-with-on-premises-infrastructure)
-### [2.  Cloud computing to the rescue](https://github.com/ssamag/technical-writing/blob/main/Cloud%20Computing%20Everything%20You%20Need%20to%20Know%20to%20Get%20Started.md#2--cloud-computing-to-the-rescue)
+### [2.  Cloud computing to the rescue](https://github.com/ssamag/technical-writing/blob/main/Cloud%20Computing%20Everything%20You%20Need%20to%20Know%20to%20Get%20Started.md#2--cloud-computing-to-the-rescue-1)
 
 
 # 1.    Problems with on-premises infrastructure
