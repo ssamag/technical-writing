@@ -26,6 +26,7 @@ Following fundamental rules are the cornerstones of the technical writing field,
 * **Leverage Visuals:** Incorporate diagrams, charts, and illustrations to enhance understanding and provide visual aids for complex information.
 * **Be Aware of Cultural Differences:** Take into account subtle cultural differences when writing to make sure your work is respectful and understandable to a wide range of readers.
 * **Embrace Feedback:** Welcome feedback from users and stakeholders to consistently enhance the clarity and effectiveness of your technical writing.
+  
 ![image](https://github.com/ssamag/technical-writing/assets/80880193/0abf6192-b178-4adc-928b-2b4e7c44a26e)
 
 _Figure 2-Essential Guidelines in Technical Writing_
@@ -43,10 +44,8 @@ Technical writing is the umbrella term for many document forms, each with a dist
 * **Release Notes:** Release notes are important documents in technical writing. They provide information to users about software updates, improvements, fixes, and new features. These notes act as a communication tool between the software development team and end-users, helping users understand the changes and enhancements in a specific release.
 * **Case Studies:** Case studies in technical writing are like stories that show how a specific technology or solution works in real situations. They help readers see the practical application of a product or service and highlight its benefits. Essentially, case studies are useful for explaining and convincing people about the real-world advantages of topic.
 * **API Documentation:** API documentation is a guide in technical writing that explains how to use and connect to an Application Programming Interface (API). It's vital for developers to grasp the features, methods, parameters, and processes of an API.
-
+  
 ![image](https://github.com/ssamag/technical-writing/assets/80880193/be89cff8-0112-42f3-8e31-49e3cef59324)
-
-
 _Figure 3-Types of Technical Writing_
 
 
