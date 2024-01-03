@@ -46,6 +46,7 @@ Technical writing is the umbrella term for many document forms, each with a dist
 * **API Documentation:** API documentation is a guide in technical writing that explains how to use and connect to an Application Programming Interface (API). It's vital for developers to grasp the features, methods, parameters, and processes of an API.
   
 ![image](https://github.com/ssamag/technical-writing/assets/80880193/be89cff8-0112-42f3-8e31-49e3cef59324)
+
 _Figure 3-Types of Technical Writing_
 
 # Conclusion
