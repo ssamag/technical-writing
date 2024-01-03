@@ -48,6 +48,9 @@ Technical writing is the umbrella term for many document forms, each with a dist
 ![image](https://github.com/ssamag/technical-writing/assets/80880193/be89cff8-0112-42f3-8e31-49e3cef59324)
 _Figure 3-Types of Technical Writing_
 
+# Conclusion
+In technical writing, we take complicated technical stuff and explain it in a way that regular people can understand and find useful. Making things simpler, following the rules, talking to users in a way that makes sense to them, and sharing knowledge are all really important in technical writing. Key rules for this kind of writing include focusing on who you're talking to, keeping things simple and clear, organizing information well, being precise and to the point, checking and fixing mistakes, using pictures effectively, being aware of cultural differences, and being open to feedback. Examples of technical writing include user manuals, website content, reports, training materials, proposals, policies, release notes, case studies, and API documentation.
+
 
 
 
